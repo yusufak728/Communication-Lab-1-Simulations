@@ -8,11 +8,11 @@ Language or Software used is MATLAB.
 
 In case of any queries, feel free to contact me via mail , yusufahmedkhan@zhet.ac.in
 
-Best Wishes and Good Luck!
-Yusuf A. Khan
-Department of Electronics Engineering,
-Zakir Husain College of Engineering and Technology,
-Aligarh Muslim University,
+Best Wishes and Good Luck! \
+Yusuf A. Khan \
+Department of Electronics Engineering, \
+Zakir Husain College of Engineering and Technology, \
+Aligarh Muslim University, \
 Aligarh
 
 
