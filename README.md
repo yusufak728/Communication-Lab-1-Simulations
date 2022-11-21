@@ -3,7 +3,7 @@
 These are the optional simulations done against the practical lab experiments (Communication lab in 5th Semester, Electronics Engineering). \
 It's advisable to understand the concepts used for simulations. 
 
-Language or Software used is MATLAB.
+Language or Software used are MATLAB and Python.
 
 
 In case of any queries, feel free to contact me via mail , yusufahmedkhan@zhet.ac.in
