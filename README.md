@@ -11,7 +11,7 @@ In case of any queries, feel free to contact me via mail , yusufahmedkhan@zhet.a
 
 
 Best Wishes and Good Luck! \
-Yusuf A. Khan \
+Yusuf Ahmed Khan \
 Department of Electronics Engineering, \
 Zakir Husain College of Engineering and Technology, \
 Aligarh Muslim University, \
